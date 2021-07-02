@@ -1,4 +1,4 @@
-# tcc
+# UNITHY - APP DE COMPRA E VENDA DE CARROS
 
 A new Flutter project.
 
