@@ -13,6 +13,13 @@ Consiste em uma aplicação que realizar o cadastro compra e venda de veículos,
 - Os carros serão exibidos na forma de lista contendo as informações cadastradas pelo seus usuarios.
 - Contém um sistema de login completo, inlcuindo um cadastro e a recuperação de senhas.
 
+```sh
+  # WEB
+  $ cd web
+  $ npm install
+  $ npm run start
+```
+
 ## Observações
 
 - A funcionalide de relatorio que consiste no retorno das informações (Listar o valor total em compras e vendas, lucro/prejuízo do mês e o valor pago em comissões.) não foi concluida, logo a mesma so estar sendo exiibindo apenas dados estaticos.
