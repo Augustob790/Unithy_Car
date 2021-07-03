@@ -6,6 +6,19 @@ A new Flutter project.
 
 Consiste em uma aplicação que realizar o cadastro compra e venda de veículos, sendo adicionado algumas informações e até mesmo uma foto.
 
+## Decisões
+
+- Foi utiliazdo a linguagem Dart e FrameWork Flutter devido a sua capacidade de criar aplicações com um desempenho nativo e também e a ferramenta que eu venho estudando já há algum tempo.
+- O Firebase foi escolhido para abrigar o dados gerados no aplicativo, por ser uma banco NOSql e presente na forma de Cloud, o usuario poderá acessar e cadastrar as informações de qualquer lugar do mundo.
+- Os carros serão exibidos na forma de lista contendo as informações cadastradas pelo seus usuarios.
+- Contém um sistema de login completo, inlcuindo um cadastro e a recuperação de senhas.
+
+## Observações
+
+- A funcionalide de relatorio que consiste no retorno das informações (Listar o valor total em compras e vendas, lucro/prejuízo do mês e o valor pago em comissões.) não foi concluida, logo a mesma so estar sendo exiibindo apenas dados estaticos.
+- O motivo consiste na dificuldade de realizar uma pesquisar composta dos dados utilizando os recursos presentes do Firebase.
+- Essa dificuldade está relacionada forma como e armazenada os dados no Firestore, realizar um select que busca esses dados, ainda é uma grande adversidade para a minha pessoa.
+
 ## Getting Started
 
  - Baixe e instale o Flutter (de preferencia na versão 2.05). 
