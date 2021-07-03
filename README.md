@@ -8,15 +8,15 @@ Consiste em uma aplicação que realizar o cadastro compra e venda de veículos,
 
 ## Getting Started
 
- ### Baixe e instale o Flutter (de preferencia na versão 2.05). 
+ - Baixe e instale o Flutter (de preferencia na versão 2.05). 
  
- ### Instale o Visual Studio Code e baixe o plugin do Dart e Flutter.
+ - Instale o Visual Studio Code e baixe o plugin do Dart e Flutter.
  
- ### Baixe esse projeto e adicione no VScode.
+ - Baixe esse projeto e adicione no VScode.
  
- ### Adicione um dipostivo ou emulador Android ou Iphone.
+ - Adicione um dipostivo ou emulador Android ou Iphone.
  
- ### Rode o comando  ( flutter run ) no terminal.
+ - Rode o comando  ( flutter run ) no terminal.
  
 ## Teste
 
