@@ -8,7 +8,7 @@ Consiste em uma aplicação que realizar o cadastro compra e venda de veículos,
 
 ## Decisões
 
-- Foi utiliazdo a linguagem Dart e FrameWork Flutter devido a sua capacidade de criar aplicações com um desempenho nativo e também e a ferramenta que eu venho estudando já há algum tempo.
+- Foi utilizado a linguagem Dart e FrameWork Flutter devido a sua capacidade de criar aplicações com um desempenho nativo e também e a ferramenta que eu venho estudando já há algum tempo.
 - O Firebase foi escolhido para abrigar o dados gerados no aplicativo, por ser uma banco NoSQL e presente na forma de Cloud, o usuario poderá acessar e cadastrar as informações de qualquer lugar do mundo.
 - Os carros serão exibidos na forma de lista contendo as informações cadastradas pelo seus usuarios.
 - Contém um sistema de login completo, inlcuindo um cadastro e a recuperação de senhas.
