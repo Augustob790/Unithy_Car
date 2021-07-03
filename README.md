@@ -14,10 +14,10 @@ Consiste em uma aplicação que realizar o cadastro compra e venda de veículos,
  
  ### Baixe esse projeto e adicione no VScode.
  
+ ### Adicione um dipostivo ou emulador Android ou Iphone.
+ 
  ### Rode o comando  ( flutter run ) no terminal.
  
- 
-
 ## Teste
 
 O prazo para realização do exercício é dia 02 de julho
