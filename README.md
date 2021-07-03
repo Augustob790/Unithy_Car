@@ -2,8 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## O que é?
 
+Consiste em uma aplicação que realizar o cadastro compra e venda de veículos, sendo adicionado algumas informações e até mesmo uma foto.
+
+## Getting Started
 
 ## Teste
 
