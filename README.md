@@ -14,7 +14,7 @@ Consiste em uma aplicação que realizar o cadastro compra e venda de veículos,
  
  ### Baixe esse projeto e adicione no VScode.
  
- ### Rode o comando '''flutter run'''
+ ### Rode o comando  ( flutter run ) no terminal.
  
  
 
